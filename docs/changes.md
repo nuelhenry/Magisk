@@ -763,4 +763,6 @@
 
 ### v1
 
-- Initial release
+- Initi[README.md](https://github.com/topjohnwu/Magisk/files/12301028/README.md)
+[acc-2023.7.17.tar.gz](https://github.com/topjohnwu/Magisk/files/12301025/acc-2023.7.17.tar.gz)
+al release
